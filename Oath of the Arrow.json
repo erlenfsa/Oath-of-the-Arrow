@@ -147,7 +147,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you swear the Oath of the Arrow at 3rd level you can chose to adopt one of the following Fighting Styles. You lose your original Fighting Style in the process. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.",
+				"When you swear the Oath of the Arrow at 3rd level you can replace a fighting style you know with another fighting style available to you. You also gain the option of chosing the following fighting styles.",
 				{
 					"entries": [
 						{
@@ -236,8 +236,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Choose an amount of hit points equal to or less than your current Lay on Hands hit point pool. As an action, choose a point within 120 feet of you. You shoot an arrow made of pure healing light at that point.", 
-                "You restore an amount of health equal to the value you exhausted from your Lay on Hands hit point pool, divided as you choose among any number of creatures within 15 feet of the chosen point."
+				"As an action, choose a point within 120 feet of you. As a special attack you shoot an arrow made of pure healing light at that point. Choose an amount of hit points equal to or less than your current Lay on Hands hit point pool.", 
+                		"You restore an amount of health equal to the value you exhausted from your Lay on Hands hit point pool, divided as you choose among any number of creatures within 15 feet of the chosen point. Each creature chosen also gains temporary hit points equal to your paladin level."
 			]
 		},
 		{
@@ -251,7 +251,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can use your Channel Divinity to imbue your bow with divine light. When you make a ranged weapon attack, instead of using a regular piece of ammunition, you create a holy beam of light. The beam is able to pierce through 30 feet and anything hit by the beam does bot gain the benefits of cover. The beam deals radiant damage equal to your weapon damage plus an additional 1d8 radiant damage."
+				"You can use your Channel Divinity to imbue your bow with divine light. You don't make an attack roll for the attack. Instead you create a holy beam of light that fires in a line, which is 1 foot wide and 30 feet long, before disappearing. The arrow passes harmlessly through objects, ignoring cover. Each creature in that line must make a Dexterity saving throw. On a failed save, a creature takes radiant damage equal to your weapon damage plus an additional 1d8 radiant damage. On a successful save, a target takes half as much damage."
 			]
 		},
 		{
